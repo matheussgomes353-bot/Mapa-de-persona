@@ -1,0 +1,5 @@
+{
+  "name": "PersonaAI Architect",
+  "description": "An intelligent wizard that guides users through strategic marketing questions to generate a comprehensive, actionable Buyer Persona using Gemini AI.",
+  "requestFramePermissions": []
+}
